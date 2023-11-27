@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+2:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    font-family: 'M PLUS 2', sans-serif;
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+}
+
+
+.app-container {
+  margin-bottom: 150px; /* Adjust the value as per your preference */
+}
+
+.text-green {
+  color: var(--global-green);
+}

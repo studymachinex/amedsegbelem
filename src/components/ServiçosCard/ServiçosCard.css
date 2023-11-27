@@ -1,0 +1,62 @@
+:root {
+  --global-green : #03B5AA;
+}
+
+.ServiçosCard-title {
+  font-weight: 800;
+  color: var(--global-green);
+  text-align: center;
+  font-size: 2rem;
+  overflow: hidden;
+}
+.icon-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.icon {
+  font-size: 40px;
+  color: var(--global-green);
+}
+
+
+.ServiçosCard-description {
+  margin-top: 20px;
+  font-size: 22px;
+  font-weight: 500;
+  text-align: center;
+  padding-left: 20px;
+}
+
+.ServiçosCard-items{
+    font-weight: 600;
+    color: #8b8b8b;
+    font-family: Helvetica, Arial,  sans-serif;
+    margin-top: 20px;
+    font-size: 1.4rem;
+}
+.ServiçosCard{
+  margin-top: 2.5em;
+  margin-bottom: 0.7em;
+  margin-right: 0.6em;
+  flex: 1;
+  background: #f2f2f2;
+  padding: 20px;
+  box-shadow: 0 0 20px 8px #d0d0d0;
+  max-width: 650px;
+  min-height: 30rem !important;
+}
+
+.ServiçosCard-content {
+  text-align: justify;
+  color: black;
+}
+
+.ServiçosCard, .ServiçosCard:hover {
+  cursor: pointer;
+  border-radius: 25px !important;
+
+}
+

@@ -1,0 +1,15 @@
+.custom-card {
+  transition: box-shadow 0.3s ease;
+}
+
+.custom-card:hover {
+  box-shadow: 0 2px 8px #4e5e5d;
+}
+
+.list-item {
+    font-weight: 500;
+}
+
+.training-card {
+  min-height: 9rem;
+}
