@@ -44,7 +44,7 @@ function Footer() {
 					Entre em Contato
 				</h3>
 				<ul>
-					<li>WHATSAPP: (91) 98601-8137</li>
+					<li>WHATSAPP: (91) 98530-5630</li>
 					<li>E-mail: amedseg@outlook.com</li>
 				</ul>
 			</div>
